@@ -5,7 +5,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SantOchoa&theme=dark&hide_border=true)  
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantOchoa&show_icons=true&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
