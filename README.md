@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/b9757ff4-89ab-4b92-9674-cc0dbe0ae72e)
 
 <!--
 **SantOchoa/SantOchoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
