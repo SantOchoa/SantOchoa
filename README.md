@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago Ochoa</h1>
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SantOchoa&theme=dark&hide_border=true)  
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantOchoa&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
