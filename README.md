@@ -5,6 +5,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SantOchoa&theme=dark&hide_border=true)  
+![Green Wall](https://green-wall.leoku.dev/api/share/SantOchoa?start=2025&size=m&theme=Sunset&showSafariHeader=false)
 
 
 <h3 align="left">Connect with me:</h3>
