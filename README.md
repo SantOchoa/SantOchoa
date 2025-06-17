@@ -2,11 +2,6 @@
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SantOchoa&theme=dark&hide_border=true)  
-![Green Wall](./SantOchoa_contributions.png)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
