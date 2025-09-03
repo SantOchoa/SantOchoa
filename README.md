@@ -22,6 +22,9 @@
 
 Hi, I'm Santiago — Systems Engineering student passionate about coding, data, and creative problem-solving.  
 📚 Book lover, tech explorer, and always curious about the future.  
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
